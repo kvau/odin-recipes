@@ -1,0 +1,14 @@
+
+
+.font{
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1{
+    color: rgb(172, 158, 27)
+}
+
+h2{
+    color: rgb(172, 158, 27);
+    text-decoration: underline;
+}
