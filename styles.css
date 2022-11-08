@@ -1,0 +1,10 @@
+
+
+.text {
+    font-family: Helvetica, 'Times New Roman', Times, serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
