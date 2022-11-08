@@ -1,0 +1,19 @@
+
+
+.font {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+img{
+    height: 500px;
+    width: auto;
+}
+
+h1 {
+    color: rgb(122, 90, 181);
+}
+
+h2 {
+    color: rgb(122, 90, 181);
+    text-decoration: underline;
+}
